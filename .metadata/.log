@@ -858,3 +858,8 @@ org.eclipse.core.runtime.CoreException: No property tester contributes a propert
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
 !SUBENTRY 1 org.eclipse.core.expressions 4 201 2024-01-16 18:22:24.198
 !MESSAGE No property tester contributes a property org.jboss.ide.eclipse.as.ui.eapxp to type class org.eclipse.jdt.internal.core.CompilationUnit
+
+!ENTRY org.eclipse.core.resources 2 2 2024-01-18 09:36:07.652
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-01-18 09:36:07.652
+!MESSAGE The project description file (.project) for 'RemoteSystemsTempFiles' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.

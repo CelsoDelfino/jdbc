@@ -23,7 +23,7 @@ public class Program {
 		PreparedStatement st = null;
 		
 		try {
-			conn = DB.getConnection();
+//			conn = DB.getConnection();
 //			
 //			st = conn.prepareStatement(
 //					"INSERT INTO SELLER "
@@ -53,6 +53,9 @@ public class Program {
 			}
 		}
 		catch(SQLException e) {
+			e.printStackTrace();
+		}
+		catch(ParseException e) {
 			e.printStackTrace();
 		}
 		finally{
