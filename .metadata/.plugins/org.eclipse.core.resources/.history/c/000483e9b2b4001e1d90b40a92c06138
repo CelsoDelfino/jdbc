@@ -1,4 +1,0 @@
-user=postgres
-password=pwd
-dburl=jdbc:postgresql://localhost/cursojsfprimefaces
-useSSL=false

@@ -1,4 +1,0 @@
-user=postgres
-password=pwd
-dburl=jdbc:postgresql://localhost:3306/coursejdbc
-useSSL=false
