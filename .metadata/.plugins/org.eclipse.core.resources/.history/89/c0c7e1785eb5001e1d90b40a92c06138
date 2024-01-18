@@ -1,0 +1,19 @@
+package application;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Connection conn = null; // conecta o banco
+		Statement st = null; // prepara uma consulta sql
+		ResultSet rs = null; // guarda o resultado da resulta sql
+		
+		
+
+	}
+
+}
